@@ -1,7 +1,7 @@
 # yelp-recommendation
 This is a project for Data mining on yelp data.
 
-This project uses perason corelation in the Yelp-dataset in order to give recommendation to the user. Data has been preprossed and stored in the databse so that this data can be used to give recommendation. You will get the link to find datasets in the link mentioned at the end.
+This project uses perason correlation in the Yelp-dataset in order to give recommendation to the user. Data has been preprossed and stored in the databse so that this data can be used to give recommendation. You will get the link to find datasets in the link mentioned at the end.
 
 Technologies used for back-end : Python, PsyPi ( For processing data ), statsmodels
 Technologies used for front-end : AngularJs, D3.js ( For Graphs ), ng-mpas (for google maps)
